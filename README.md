@@ -36,9 +36,9 @@ Used journalctl to inspect system logs and investigate authentication and sudo a
 Reviewed information including:
 
  Timestamps
- User activity
- Authentication results
- sudo events
+ User activity,
+ Authentication results,
+ sudo events,
  Processes associated with security events
 
 4. Log Filtering:
@@ -53,7 +53,8 @@ The script demonstrates how repetitive log analysis tasks can be automated rathe
 6. Documentation:
 
 Recorded investigation steps, observations and security findings in Markdown so that the analysis could be reproduced and reviewed.
-Repository Structure
+
+Repository Structure:
 
 security-monitoring/
 ├── README.md
@@ -62,15 +63,15 @@ security-monitoring/
 
 Skills Demonstrated:
 
- Linux command line administration
- Linux security monitoring
- Authentication log analysis
- sudo activity investigation
- Security event filtering
- Bash scripting
- Basic detection automation
- Security investigation documentation
- Git version control
+ Linux command line administration,
+ Linux security monitoring,
+ Authentication log analysis,
+ sudo activity investigation,
+ Security event filtering,
+ Bash scripting,
+ Basic detection automation,
+ Security investigation documentation,
+ Git version control,
  GitHub repository management
 
 Key Learning Outcomes:
